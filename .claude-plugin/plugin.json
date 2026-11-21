@@ -1,0 +1,13 @@
+{
+  "name": "aws-iot-core-migration-skills",
+  "version": "1.0.0",
+  "description": "Plan and execute a migration from AWS IoT Core to the ConnectMQ managed MQTT broker: AWS CLI inventory, IoT policy to ACL conversion, shadow migration, relay setup, firmware waves and rollback.",
+  "author": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "homepage": "https://github.com/connectmq/aws-iot-core-migration-skills",
+  "repository": "https://github.com/connectmq/aws-iot-core-migration-skills",
+  "license": "MIT",
+  "keywords": ["mqtt", "aws-iot-core", "aws-iot", "migration", "connectmq", "mqtt-broker", "iot", "skills"]
+}

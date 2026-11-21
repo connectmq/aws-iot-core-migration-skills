@@ -1,0 +1,16 @@
+{
+  "name": "connectmq-aws-iot-core-migration",
+  "description": "ConnectMQ skills for migrating from AWS IoT Core to the ConnectMQ MQTT broker",
+  "owner": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "plugins": [
+    {
+      "name": "aws-iot-core-migration-skills",
+      "source": "./",
+      "description": "Plan and execute a migration from AWS IoT Core to the ConnectMQ managed MQTT broker.",
+      "version": "1.0.0"
+    }
+  ]
+}
